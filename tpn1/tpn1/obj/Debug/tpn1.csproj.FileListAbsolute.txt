@@ -1,0 +1,7 @@
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\bin\Debug\tpn1.exe.config
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\bin\Debug\tpn1.exe
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\bin\Debug\tpn1.pdb
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\obj\Debug\tpn1.csproj.AssemblyReference.cache
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\obj\Debug\tpn1.csproj.CoreCompileInputs.cache
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\obj\Debug\tpn1.exe
+D:\Javier\Cursado UTN\3er Semestre\LAB3\LaboratorioProgramacion3UTN\tpn1\tpn1\obj\Debug\tpn1.pdb
